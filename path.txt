@@ -9,4 +9,5 @@
    git merge develop(this command used to merge your changes whatever u did in ur develop branch, and it will merge in ur master branch)
    git push(it will pushed your changes in your repositry)
    git checkout branch_name(will move to the particular branch)
+   git commit -a -m "message"(will commit your changes in your local)
    
